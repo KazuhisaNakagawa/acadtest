@@ -20,7 +20,7 @@ Namespace HelloWorld
 
         <CommandMethod("HelloWorld", "HelloWorld", "HelloWorld", CommandFlags.Modal)> _
         Public Sub HelloWorld()
-            MsgBox("HelloWorld!!")
+            MsgBox("Hello World 02!!")
         End Sub
 
 
